@@ -1,0 +1,4 @@
+--require spec_helper
+--format html --out coverage/rspec.html
+--format json --out coverage/rspec.json
+--format doc

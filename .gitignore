@@ -1,0 +1,6 @@
+.DS_Store
+/.bundle
+/coverage/*
+/.yardoc/**/*
+/doc
+/spec/state.txt

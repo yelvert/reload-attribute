@@ -1,0 +1,6 @@
+--output-dir doc
+--markup markdown
+--markup-provider rdiscount
+--private
+--protected
+lib/**/*.rb
