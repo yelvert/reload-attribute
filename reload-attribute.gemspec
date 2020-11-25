@@ -21,8 +21,8 @@ Gem::Specification.new do |s|
   s.files = Dir['lib/**/*', 'MIT-LICENSE', 'README.md']
   s.require_paths = ['lib']
 
-  s.add_dependency 'activerecord', '~> 5.2.0'
-  s.add_dependency 'activesupport', '~> 5.2.0'
+  s.add_dependency 'activerecord', '>= 5.2.0'
+  s.add_dependency 'activesupport', '>= 5.2.0'
 
   s.add_development_dependency 'factory_bot'
   s.add_development_dependency 'rdiscount'
